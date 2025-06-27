@@ -1,0 +1,3049 @@
+Hashed Input (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Hashed Input (B): 335w5QIVRPSDS77mSp43if68S+gUcN9inK1t2wMyClw=
+Hashed Input (C): ayPA1fNdGxH5toPwsKYXNV3rESd9ka4JHTmcZVuHlA0=
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+
+--- Voting Summary ---
+Total Voters: 0
+Hashed Input (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Hashed Input (B): 335w5QIVRPSDS77mSp43if68S+gUcN9inK1t2wMyClw=
+Hashed Input (C): ayPA1fNdGxH5toPwsKYXNV3rESd9ka4JHTmcZVuHlA0=
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): eqgGn73XjCix7WeD+2p1Q/TWy+R+zzEJfObzrwm8D3K61YU6FEXqmQekhJnVi94AtjXnO1Fm7/8QtFz5uWy1pwrTbn/jwJo5K2xNaeY+zeYXf6OSxf2isOVYJ+Zg04X7efSSdcxIWhR4hPbqtiGeOwFlzIh9aHY6E99uDGL0MRbvJioFHZ/V/6KeS0aAMeG8I3a5rOanGqaWTTc1ZLJXDTrf5z96sDVsTx3kmlTkVQUKUGYL8JajECgN34VztYJq5OF+srB1CRYYgDz0E44ScmxR0N4To/DywGgLIW/lWNmgG8qJ+lxseTTu8TOVFMLMmSwDrMyueF9XVjbgRHKTFQ==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Decrypting vote...
+Decrypted Output: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Vote received and verified (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+
+--- Voting Summary ---
+Total Voters: 1
+Alice → Count: 1
+Hashed Input (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Hashed Input (B): 335w5QIVRPSDS77mSp43if68S+gUcN9inK1t2wMyClw=
+Hashed Input (C): ayPA1fNdGxH5toPwsKYXNV3rESd9ka4JHTmcZVuHlA0=
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): HEQEZ5yFL87cDbyZE6bCuZnWdt8gKMaPZ/O2rqkJVEP7EPmbpG54rw5Ejxd5YJWhxKjOK6Hr4bp7nC5hmdj9/CUQBRJAkMJrjcODTUlS8ypBJXSFW/nJZP9pQeKjcpbsyQQ8vPaS2hMZwU7hpEMANK9Y5oXBtNeezrcDDXpKc0KxuT8JF0MJuBlcOSSK386sLzKGL62i9z8Ecoawt/orXByITx0naEP/WiWBU1W76sr/UD12+OE91lemwq3fbX8is/ZSi/j7488wmhC6L0SnzkA9Y0HRXpFAh/1smC6IGqrjoKq7cXXBxLlsKHYOb/kT5/QVN045HTZAlsBfu+7Txw==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Decrypting vote...
+Decrypted Output: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Vote received and verified (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Generating token using: samsam123
+Hashed Input (samsam123): cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): l4HCga7NFIL5Nz/FM78kQeu/n3l6XIaUL9J4Ry3E9yJSMdAviSONnlXo4OEtcvctWJJDdkKp3WSsrtoDwd1L29LpvVjXXTo/vKcgp6MVNEWTSk9zwUbQ/s8JM+Xm5xJqZik9NovJUM2/NtzBc1tJFRVf3EIgdkXlzZdIoKpdNFUet2FzKqcuCtXgYdlGvUOTHjBivO0vPxyYSl2WZ/bWp2qQt2gYWReLDlIZmJGAUtiCvqGmAMRZx4NS16gzdSThiMU++FikR1gtREUgMyeLt1jll5g+lj+JuOGx4Utl9MKJZs4FWGtOE91GfYbH+SJLrryn3NkvArE5tA6n+1vADw==
+Receiving vote with token: cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+Decrypting vote...
+Decrypted Output: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Vote received and verified (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Generating token using: samsam123
+Hashed Input (samsam123): cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): CvGN5iz5DLw0uovEycQ2p9pkaEf2zK5UncFvFl9rerlawVvC/5GemL452YT3wRDUfAHPCWzN6AU05KDdVRpsNech3e/EAIS2s3nnZAj6WF31VjKtJTYP9/yg/mY4NAFnyuEct6wPPZB25RzVxUE8vww8/jI3uojEGg6vQimo0KDAGo1iAG+6m4bJPoI8q6j+AETQYyxmHo1t+veVd+1vnoxUx79CkMeax1EhF1MHz7a1ISpc9HgXh40Gc24SFJnJqRNMOzqv8Gb1isqJ7OFtw60DXD/H5pvFOdS0vCGJRaOvkNsoecTsSz+Z9NEin3EU/KMiqdVT0KfA7s/cqAREhA==
+Receiving vote with token: cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+Duplicate vote detected. Vote rejected.
+Generating token using: sayurisayuri123
+Hashed Input (sayurisayuri123): 2ingC6PPbaViIXP9P4VccFqhkUA6vo/Q23kZA2c7OjQ=
+Hashing vote choice: Bob
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Encrypting hashed vote...
+Encrypted Input (Base64): j0wudHgsCldjJdT2ngEGTzESA55lq0x+mCKDReIyesFjzEfGbMeF/2EjQK5i2g8JbEXb3vehXkc3ObnZTx0WOBpiLVKwptG4+62Naaw3OqxzWlw9fAP/xI17Cbih2dooowdbwscLlcrRGlDV87XOuJeeOAX6jaUlwEYjO3+u6v2jdQ3BhJltSktrHMzPm9hQrB8ywvovNJa6z00MTlghDmBakSY/sH/URGB9ThhAjjgFwGKjqHcGIFDqr3c3D30KWKGx0+pKZF8aVjujHNzm1tqjrOy7dXTTnESUYFLv9iDtBLHGOgGUaCBhM2aojN0JTU5maWYTfixvBVDwlq72PA==
+Receiving vote with token: 2ingC6PPbaViIXP9P4VccFqhkUA6vo/Q23kZA2c7OjQ=
+Decrypting vote...
+Decrypted Output: zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Vote received and verified (hash): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+
+--- Voting Summary ---
+Total Voters: 3
+Alice → Count: 2
+Bob → Count: 1
+Hashed Input (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Hashed Input (B): 335w5QIVRPSDS77mSp43if68S+gUcN9inK1t2wMyClw=
+Hashed Input (C): ayPA1fNdGxH5toPwsKYXNV3rESd9ka4JHTmcZVuHlA0=
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): L1HeSbUtMi64cSTkrnVRdTw3JpH8OcTeIfh7t/vMvroXaLJPtBKhi0SMEeQBQX9j+EAJ08C9hUdmTb+HWEE5cziIi3kWyADJz9+L2GIJUu3q9e/LVlq7aJ93HAkS6jlFh1McBLJVtZ4ra+7uhfV2p2Ux8Vv8aet0Av9zmNZHsHBoISxmg26FTbE3w6ZolhmSWi+e7FYpvNEm+uXIIEh0u+sjpBGqfeYPuvuZtJrNI1Gww9v8Kg0LUgGoskYefpJYRZQ3hCPfc3UooFLbu0fM2bSce+1tF1CceatNxVsAP9RyXZNi7Qt6QjLtngRdYg9PhwhRNV4odvkOBNGmdWICgg==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Decrypting vote...
+Decrypted Output: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Vote received and verified (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Hashed Input (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+#️⃣ Hashed (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Hashed Input (B): 335w5QIVRPSDS77mSp43if68S+gUcN9inK1t2wMyClw=
+#️⃣ Hashed (B): 335w5QIVRPSDS77mSp43if68S+gUcN9inK1t2wMyClw=
+Hashed Input (C): ayPA1fNdGxH5toPwsKYXNV3rESd9ka4JHTmcZVuHlA0=
+#️⃣ Hashed (C): ayPA1fNdGxH5toPwsKYXNV3rESd9ka4JHTmcZVuHlA0=
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+#️⃣ Hashed (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+#️⃣ Hashed (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+#️⃣ Hashed (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): Q1d+szLfu7jVydWCHy6deSjS1fV3RJrANuBMFJvtv6foCQqFPHaZokqtItL+7E5vbGy0TE4lR5xskN3uk/D5sMyLsLiaJpnZs65/UtV4zSaFuZdou7RcXojmLmMHjke00UgoHgfnQmwr28tuKY1gvyL7q91NHW4MA8B0UcbCYLA2rgZVBz1HXeFc24SVAVOuAkeYZpZaOEbYUlJprNNb0B0kOXgdeuskoYSggCP0C2HXw6ofPC3+d21vxitKM8vddT6yD6JBgC0LmYAzoL7nBsB8eJjNUiKkCZQm6oCL/GE7ui9v5XRd+TVY1HsLQyOdUuBelmQy1l4038mDlRg+Sw==
+🔐 Encrypted Vote: Q1d+szLfu7jVydWCHy6deSjS1fV3RJrANuBMFJvtv6foCQqFPHaZokqtItL+7E5vbGy0TE4lR5xskN3uk/D5sMyLsLiaJpnZs65/UtV4zSaFuZdou7RcXojmLmMHjke00UgoHgfnQmwr28tuKY1gvyL7q91NHW4MA8B0UcbCYLA2rgZVBz1HXeFc24SVAVOuAkeYZpZaOEbYUlJprNNb0B0kOXgdeuskoYSggCP0C2HXw6ofPC3+d21vxitKM8vddT6yD6JBgC0LmYAzoL7nBsB8eJjNUiKkCZQm6oCL/GE7ui9v5XRd+TVY1HsLQyOdUuBelmQy1l4038mDlRg+Sw==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Decrypting vote...
+Decrypted Output: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+🔓 Decrypted Vote (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Vote received and verified (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+#️⃣ Hashed (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): QiZGcoRDUnTXEU1o1nWI2xrqJtUuJmYhqdS6FdrzJkISQIR0M7vInPXbyobzEyEkL496Tg0OBnhx/aC14r9mYHqKVRyLQdh+6l9E7zwo2N28wSfBG9791mAfZCQlcnPaz83lXdqCFigqmygGC5W1azRbki+o/KdQqBNurg62KXJiyvt7qhKJ8iamvDtLjN+7I9/4Bqf6gY3DDfsGI6UNU+MlObNefIUAegQIrD53YKxEpIBBSHaUTczuLsUF/wAmV3VGOBqCyz8kLEWNwT5tSCSmORI0/LD8dxbg3bV4+6bneD7+MGGbitPOyhjcAU0PDI6VuaNqrCRTNUtMf4v3ZA==
+🔐 Encrypted Vote: QiZGcoRDUnTXEU1o1nWI2xrqJtUuJmYhqdS6FdrzJkISQIR0M7vInPXbyobzEyEkL496Tg0OBnhx/aC14r9mYHqKVRyLQdh+6l9E7zwo2N28wSfBG9791mAfZCQlcnPaz83lXdqCFigqmygGC5W1azRbki+o/KdQqBNurg62KXJiyvt7qhKJ8iamvDtLjN+7I9/4Bqf6gY3DDfsGI6UNU+MlObNefIUAegQIrD53YKxEpIBBSHaUTczuLsUF/wAmV3VGOBqCyz8kLEWNwT5tSCSmORI0/LD8dxbg3bV4+6bneD7+MGGbitPOyhjcAU0PDI6VuaNqrCRTNUtMf4v3ZA==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Duplicate vote detected. Vote rejected.
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+#️⃣ Hashed (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): ZSgO3UkXnXL05YrXBM+jZ/hq3rAi06P79qi0RuXgkCjUHzhx1zm7p4YyC8UI7srJqudC9NHrj6001Rj4qCYBfda5nD4Sc1RKUvEFmMu2Etrr8Q6f3pwfNi9wHRbNu0HZ7hfeb5KWeXoGGb1K5K0J/Gtw4YKeFXjqfSHVC4pvJIb4W6WUbN4DF0/c52MfAe2JAoeu+7IDoUEwWWpyrT5PlWHYiwk62WSyQKmI8bKFLy4cLuV2z2VJNoV/1J7VM+6ZjcgkNQToZNSks0Ln2fCI7LERcztaOhMSKdVwQrmM2ySoQ3EXInE6+LoBynG20Zb4skuIp4O7S79L3a9OOuHrlQ==
+🔐 Encrypted Vote: ZSgO3UkXnXL05YrXBM+jZ/hq3rAi06P79qi0RuXgkCjUHzhx1zm7p4YyC8UI7srJqudC9NHrj6001Rj4qCYBfda5nD4Sc1RKUvEFmMu2Etrr8Q6f3pwfNi9wHRbNu0HZ7hfeb5KWeXoGGb1K5K0J/Gtw4YKeFXjqfSHVC4pvJIb4W6WUbN4DF0/c52MfAe2JAoeu+7IDoUEwWWpyrT5PlWHYiwk62WSyQKmI8bKFLy4cLuV2z2VJNoV/1J7VM+6ZjcgkNQToZNSks0Ln2fCI7LERcztaOhMSKdVwQrmM2ySoQ3EXInE6+LoBynG20Zb4skuIp4O7S79L3a9OOuHrlQ==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Duplicate vote detected. Vote rejected.
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+#️⃣ Hashed (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): YGLKB8U6IonWk9zBhbacgJKKNvW7I0fzj+MuWuBgmFUTJ2k9TUDRBp2O7jTwM5yb8/aDRop27KTmHaBHfFNKQPLSGHXCNatkhtIFqcv/+nWxDGm4fdpVVX7Kk1uCPo+433iKHFiGYKimVZwe+ZOmrvAgKxZBzfneY0bZ/nlTRPo1c4UhxhqDkj1OyRL38KeI2doALhzIgYFjeEIYaXoILEkbK2wxhjkMr4NGEBu0s8LJ92wBy2Ld8WroDVTryhkZDutqbS0kir9HCsLPY67nbe0FN9VCHusWoWKKbxv+oWizjEA44zdbbkP1CMglN33t8s7SGlep/2VBM0cLN+vSDg==
+🔐 Encrypted Vote: YGLKB8U6IonWk9zBhbacgJKKNvW7I0fzj+MuWuBgmFUTJ2k9TUDRBp2O7jTwM5yb8/aDRop27KTmHaBHfFNKQPLSGHXCNatkhtIFqcv/+nWxDGm4fdpVVX7Kk1uCPo+433iKHFiGYKimVZwe+ZOmrvAgKxZBzfneY0bZ/nlTRPo1c4UhxhqDkj1OyRL38KeI2doALhzIgYFjeEIYaXoILEkbK2wxhjkMr4NGEBu0s8LJ92wBy2Ld8WroDVTryhkZDutqbS0kir9HCsLPY67nbe0FN9VCHusWoWKKbxv+oWizjEA44zdbbkP1CMglN33t8s7SGlep/2VBM0cLN+vSDg==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Duplicate vote detected. Vote rejected.
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+#️⃣ Hashed (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): CMgXTi8e9BgqY9xB4vp/9aH1DtPf0v7SflWXxq/i6FP/buw1rfEwgBJyZBw8mGpWpkP6GGKMxgTnyu7CwzG9kpsKMe0Tc5BOaPJAZOLK3xXZ2Cu2mOIzP2qh/N5BUnM1o7LfSD1EwknZdgqUlbSRzYlszzyNAkhbsaNqgRHRHRyxSxJdenksg9Wkvkym+ibXIkyQATAD9+7Vk0A4SsHdR8R5IU3Uzhh+guE2u9LtftvG7b+nlF5Tbrs3046lu9vtNunvOOihBBh58egpLYUZodsoVvoUJ+JE5LTNtYV5BzLvj1VuI0XrnV4GoW2A4DSMBWPsBsNtirClgQPEn+6d7w==
+🔐 Encrypted Vote: CMgXTi8e9BgqY9xB4vp/9aH1DtPf0v7SflWXxq/i6FP/buw1rfEwgBJyZBw8mGpWpkP6GGKMxgTnyu7CwzG9kpsKMe0Tc5BOaPJAZOLK3xXZ2Cu2mOIzP2qh/N5BUnM1o7LfSD1EwknZdgqUlbSRzYlszzyNAkhbsaNqgRHRHRyxSxJdenksg9Wkvkym+ibXIkyQATAD9+7Vk0A4SsHdR8R5IU3Uzhh+guE2u9LtftvG7b+nlF5Tbrs3046lu9vtNunvOOihBBh58egpLYUZodsoVvoUJ+JE5LTNtYV5BzLvj1VuI0XrnV4GoW2A4DSMBWPsBsNtirClgQPEn+6d7w==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Duplicate vote detected. Vote rejected.
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+#️⃣ Hashed (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): Q7OgSw2PMAwU412QCK8EVbRwhFgEvH1v6uoM2V77aCuCQ4JnDTZKNirmmd4RIkswJwYcJHP9oCS1wHAKvXb9a/ypLGDcT8K6AQdqMWmR+WY/fdRdNCRw/hpRMsYUQec/tbpPeGYFBflhVn+p6Fet6+EkSxn3e5A6i/LNs0aEE0lSL6reOryXvb2sDWb/KCWxafN3qO/V/dvau7NiEHgJKZ8eRMDW0ouPSwgq8ta5l99ehHpk/h9gI8iCLtCXBuHLK+aZ4mzuqGOiDeQwHHaKXpYA21fsuIWdhcpu71Rv4wqMHTeqFVfQxB23kZvFiGGLrUMLCNGO1/yNkifAAHLtcA==
+🔐 Encrypted Vote: Q7OgSw2PMAwU412QCK8EVbRwhFgEvH1v6uoM2V77aCuCQ4JnDTZKNirmmd4RIkswJwYcJHP9oCS1wHAKvXb9a/ypLGDcT8K6AQdqMWmR+WY/fdRdNCRw/hpRMsYUQec/tbpPeGYFBflhVn+p6Fet6+EkSxn3e5A6i/LNs0aEE0lSL6reOryXvb2sDWb/KCWxafN3qO/V/dvau7NiEHgJKZ8eRMDW0ouPSwgq8ta5l99ehHpk/h9gI8iCLtCXBuHLK+aZ4mzuqGOiDeQwHHaKXpYA21fsuIWdhcpu71Rv4wqMHTeqFVfQxB23kZvFiGGLrUMLCNGO1/yNkifAAHLtcA==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Duplicate vote detected. Vote rejected.
+Generating token using: samsam123
+Hashed Input (samsam123): cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+#️⃣ Hashed (samsam123): cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): Em07rMGiSdLRsuzkUXhgS68djlUjFhN4T5KAX7HyfC6wetXCw9DcTaI49wIvx/R74ykMJOOSgPU5gzZ73cioS6TBcCcQ4Mebs7Sc3vdJClgQTyqOcYdqadZm0guU3321/yCl/qgICvAunHCZghTAUCMfr0hEebL34IMUQTkn6J8NqHs60XwiekVg7ArUUhSDli86gwpRvtXNadW1od9lyPyKPCRBAOSpehV0BeephKMlmYydpqksyh86ppxiS3yEl89AMlQwV/TCPODnIx5RJ7k8oIeeF1+YJyDV7Omo4UI/Rx1r0eSS5bq7WJs8OjyISEY1l0PmPKS47ru0YKlt3A==
+🔐 Encrypted Vote: Em07rMGiSdLRsuzkUXhgS68djlUjFhN4T5KAX7HyfC6wetXCw9DcTaI49wIvx/R74ykMJOOSgPU5gzZ73cioS6TBcCcQ4Mebs7Sc3vdJClgQTyqOcYdqadZm0guU3321/yCl/qgICvAunHCZghTAUCMfr0hEebL34IMUQTkn6J8NqHs60XwiekVg7ArUUhSDli86gwpRvtXNadW1od9lyPyKPCRBAOSpehV0BeephKMlmYydpqksyh86ppxiS3yEl89AMlQwV/TCPODnIx5RJ7k8oIeeF1+YJyDV7Omo4UI/Rx1r0eSS5bq7WJs8OjyISEY1l0PmPKS47ru0YKlt3A==
+Receiving vote with token: cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+Decrypting vote...
+Decrypted Output: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+🔓 Decrypted Vote (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Vote received and verified (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+
+--- Voting Summary ---
+Total Voters: 2
+Alice → Count: 2
+Generating token using: samsam123
+Hashed Input (samsam123): cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+#️⃣ Hashed (samsam123): cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): Z5ODkqgj/k0LHBX3BEv2iwTclGHBTop8HzEyi6Wck4h8OQuPbzWvCBDHkZsPgmWdNlCwGTPYioFhjFyZGqZK1/4xs9WufNMExHURo72DsaS+WgXVPNjoVhxrDUNPmJpBxPstLrotIaUCpxRXZrRXh+psYnqyvyh/N4vdHSDZgL5fEVcEScpfNTh2Pwu/Y7ymcA+LyK/GuqPQpO4zwN7cIGnxWR765NO07cUjlitFwdcSNQqQujjIcgUO8DvIdzCN1hBEVHc+zLI8gCrDqm9lRVkTJb7Kdt5EMEOxZxK9rpqP6b6dKLyfBN44FBc4qsTHByIFR11V7tC8w/om0XapHA==
+🔐 Encrypted Vote: Z5ODkqgj/k0LHBX3BEv2iwTclGHBTop8HzEyi6Wck4h8OQuPbzWvCBDHkZsPgmWdNlCwGTPYioFhjFyZGqZK1/4xs9WufNMExHURo72DsaS+WgXVPNjoVhxrDUNPmJpBxPstLrotIaUCpxRXZrRXh+psYnqyvyh/N4vdHSDZgL5fEVcEScpfNTh2Pwu/Y7ymcA+LyK/GuqPQpO4zwN7cIGnxWR765NO07cUjlitFwdcSNQqQujjIcgUO8DvIdzCN1hBEVHc+zLI8gCrDqm9lRVkTJb7Kdt5EMEOxZxK9rpqP6b6dKLyfBN44FBc4qsTHByIFR11V7tC8w/om0XapHA==
+Receiving vote with token: cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+Duplicate vote detected. Vote rejected.
+
+--- Voting Summary ---
+Total Voters: 2
+Alice → Count: 2
+Hashed Input (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+#️⃣ Hashed (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Hashed Input (B): 335w5QIVRPSDS77mSp43if68S+gUcN9inK1t2wMyClw=
+#️⃣ Hashed (B): 335w5QIVRPSDS77mSp43if68S+gUcN9inK1t2wMyClw=
+Hashed Input (C): ayPA1fNdGxH5toPwsKYXNV3rESd9ka4JHTmcZVuHlA0=
+#️⃣ Hashed (C): ayPA1fNdGxH5toPwsKYXNV3rESd9ka4JHTmcZVuHlA0=
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+#️⃣ Hashed (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+#️⃣ Hashed (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+#️⃣ Hashed (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): QkJJXt51Fyk9cH+ZrEBlt4+IT+1mDR+2Fdn3T/GSyD5oB/+FTtWXdP4TYGnPydVc6shMuatWZ3gLljVfh/Rx6xRehy02/b0fU2UrWFNfCE1QoFX4ocGcfmaciVbMtNT6jMnvWG3/ZwXqCT2iD2RqLY+jpsmbxP2i7HPrUS7bYypDedC4MespBLmODKKaa2i76iMWTdwOVFlTaCHwl0st+Q+k9/6fDcoSGO6Iuuu9yTg9UAtPXFA2zeYj0noHigc+Xh2TvnqiPPyFpmOQeMEh4o8r81TrHiC/eojes0ZB7CvnTvv/FCS2duVPb8tvck+SgFLpbLxzwQSBqGgcLGvX1w==
+🔐 Encrypted Vote: QkJJXt51Fyk9cH+ZrEBlt4+IT+1mDR+2Fdn3T/GSyD5oB/+FTtWXdP4TYGnPydVc6shMuatWZ3gLljVfh/Rx6xRehy02/b0fU2UrWFNfCE1QoFX4ocGcfmaciVbMtNT6jMnvWG3/ZwXqCT2iD2RqLY+jpsmbxP2i7HPrUS7bYypDedC4MespBLmODKKaa2i76iMWTdwOVFlTaCHwl0st+Q+k9/6fDcoSGO6Iuuu9yTg9UAtPXFA2zeYj0noHigc+Xh2TvnqiPPyFpmOQeMEh4o8r81TrHiC/eojes0ZB7CvnTvv/FCS2duVPb8tvck+SgFLpbLxzwQSBqGgcLGvX1w==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Decrypting vote...
+Decrypted Output: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+🔓 Decrypted Vote (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Vote received and verified (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+#️⃣ Hashed (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: Bob
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+#️⃣ Hashed (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Encrypting hashed vote...
+Encrypted Input (Base64): hz9pOcy2XE6wdtIvHZjgWVBsHVyh1WFK9BI/u5WKURNGXNWlpK1HRN7ljF3VxOIC2Mde3OAMyqxmtuJdT/dhwEZPdxWOSM71cluZLv0XX9yLAKWqe24oGfIO2u6EF6Rp7O2C6rBo0qcq+r92WFmffaGh1Zcza9/BHKqCLJ64ia7RIrl7daYYLFMn8vkSSUQKmGbX+fSipcvQ9A/KP3zSrUktZqt8dcsqj6rP5aX1Y12SSNKj6TzJeD83hB2WXgVQHIIxZx+MPNfWUGZBsOb1AwZ8Nd5uqf1k/1mItrieeCri6j52Y+A0V/u3kqjbSC+zKak70Va1JWNwbwDHSdowtg==
+🔐 Encrypted Vote: hz9pOcy2XE6wdtIvHZjgWVBsHVyh1WFK9BI/u5WKURNGXNWlpK1HRN7ljF3VxOIC2Mde3OAMyqxmtuJdT/dhwEZPdxWOSM71cluZLv0XX9yLAKWqe24oGfIO2u6EF6Rp7O2C6rBo0qcq+r92WFmffaGh1Zcza9/BHKqCLJ64ia7RIrl7daYYLFMn8vkSSUQKmGbX+fSipcvQ9A/KP3zSrUktZqt8dcsqj6rP5aX1Y12SSNKj6TzJeD83hB2WXgVQHIIxZx+MPNfWUGZBsOb1AwZ8Nd5uqf1k/1mItrieeCri6j52Y+A0V/u3kqjbSC+zKak70Va1JWNwbwDHSdowtg==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Duplicate vote detected. Vote rejected.
+Generating token using: samsam123
+Hashed Input (samsam123): cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+#️⃣ Hashed (samsam123): cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+Hashing vote choice: Bob
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+#️⃣ Hashed (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Encrypting hashed vote...
+Encrypted Input (Base64): StCqd1U9JqXNDc6mOmdikQUQBuLN3Oa6K4qnMfHRFOj5raQ37RC2hJ6mc6mMkEreVo3bPlWwRhX2AKPMb+zuAkdZnTCLAXI/v5xe7hX1vo+pTMN4JIU+UbbokA310IsFp7bj201mD6DOd898PhSoU42fc6GsJzADav8+hzLr3aI+QmEiLdi2Y23zFlzP+JOsrn8MPoYZJZsyMek5gLzH8duYpPfdGGYX3od2yKprjbhR/+3KhmAE7pDL6/bjF062tUFGZVhXOUTofhSHjEB9xWyA9gz4HplbRt76pzgf1+PY2C1KvsZSy5gDBe2YcuUxlcMCiBOrIZ8dNWX4/6NYiQ==
+🔐 Encrypted Vote: StCqd1U9JqXNDc6mOmdikQUQBuLN3Oa6K4qnMfHRFOj5raQ37RC2hJ6mc6mMkEreVo3bPlWwRhX2AKPMb+zuAkdZnTCLAXI/v5xe7hX1vo+pTMN4JIU+UbbokA310IsFp7bj201mD6DOd898PhSoU42fc6GsJzADav8+hzLr3aI+QmEiLdi2Y23zFlzP+JOsrn8MPoYZJZsyMek5gLzH8duYpPfdGGYX3od2yKprjbhR/+3KhmAE7pDL6/bjF062tUFGZVhXOUTofhSHjEB9xWyA9gz4HplbRt76pzgf1+PY2C1KvsZSy5gDBe2YcuUxlcMCiBOrIZ8dNWX4/6NYiQ==
+Receiving vote with token: cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+Decrypting vote...
+Decrypted Output: zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+🔓 Decrypted Vote (hash): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Vote received and verified (hash): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+Hashed Input (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+#️⃣ Hashed (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Hashed Input (B): 335w5QIVRPSDS77mSp43if68S+gUcN9inK1t2wMyClw=
+#️⃣ Hashed (B): 335w5QIVRPSDS77mSp43if68S+gUcN9inK1t2wMyClw=
+Hashed Input (C): ayPA1fNdGxH5toPwsKYXNV3rESd9ka4JHTmcZVuHlA0=
+#️⃣ Hashed (C): ayPA1fNdGxH5toPwsKYXNV3rESd9ka4JHTmcZVuHlA0=
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+#️⃣ Hashed (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+#️⃣ Hashed (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+#️⃣ Hashed (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): vP+Xq8n2vp0HNV+yEA2PHsQJUEaU+9mD4eHd0lBZ3L/iO3jPQfqiGiBkuEeUb3V2Ov2wX9Wj3C048OgBqZ8nCGpNbLiA7xrE3FZU2GA4Sc5bqGJpBWSj4JvYjV3dEUzam4WQgA6HvLeGJZXPuEea0185QKV7dupp6t4mURyVP61IlxNAEWVjkEeT7Kz8LeuKAu5XraYMsyU6aOuIC3k+F6k+nWVe4lR1FtZB1uSWq7B+XQWO+/tHtWYCjCRQDA87b0yTxreiVsRSECB2AIpxxQoryNTuQ4uXdagg9urP7V8tuvPCpib3m9m1YNuMxUeG6vdDAsTp3QSev7O32rxZQw==
+🔐 Encrypted Vote: vP+Xq8n2vp0HNV+yEA2PHsQJUEaU+9mD4eHd0lBZ3L/iO3jPQfqiGiBkuEeUb3V2Ov2wX9Wj3C048OgBqZ8nCGpNbLiA7xrE3FZU2GA4Sc5bqGJpBWSj4JvYjV3dEUzam4WQgA6HvLeGJZXPuEea0185QKV7dupp6t4mURyVP61IlxNAEWVjkEeT7Kz8LeuKAu5XraYMsyU6aOuIC3k+F6k+nWVe4lR1FtZB1uSWq7B+XQWO+/tHtWYCjCRQDA87b0yTxreiVsRSECB2AIpxxQoryNTuQ4uXdagg9urP7V8tuvPCpib3m9m1YNuMxUeG6vdDAsTp3QSev7O32rxZQw==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Decrypting vote...
+Decrypted Output: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+🔓 Decrypted Vote (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Vote received and verified (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Generating token using: samsam123
+Hashed Input (samsam123): cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+#️⃣ Hashed (samsam123): cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+Hashing vote choice: Bob
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+#️⃣ Hashed (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Encrypting hashed vote...
+Encrypted Input (Base64): g9ve2suxyq90PdFMm601F8GGZjHZOxyMF4GAXCCL1KD6Q5F8UayHwGf/Hnr9g2f9+pcm03pmGKwO0BxnH4rIC8MGNXkNF15XqeIBiNpJB3ehWUAPVnKSx6zBHhqvYQ6sjE7SGjnrY2GiF72FvcS7xYZM8Dgpi+upkCRlPY5qn7QS7nxh6iRREZSP/oUJ09VwzjjJHRabKZWy1+iTq/BDCpH1bDAFkPuQq03suiJoKz8Fb3pBI8c0IuEhU2E/MstUTGvF5gvgpZTSRet+2rCN7FJy/zw7dEg2Y7YPhJSMDuGvV88jF0wSCylKGfJw4euTOtRgGWYexnoUxygLmXQtRQ==
+🔐 Encrypted Vote: g9ve2suxyq90PdFMm601F8GGZjHZOxyMF4GAXCCL1KD6Q5F8UayHwGf/Hnr9g2f9+pcm03pmGKwO0BxnH4rIC8MGNXkNF15XqeIBiNpJB3ehWUAPVnKSx6zBHhqvYQ6sjE7SGjnrY2GiF72FvcS7xYZM8Dgpi+upkCRlPY5qn7QS7nxh6iRREZSP/oUJ09VwzjjJHRabKZWy1+iTq/BDCpH1bDAFkPuQq03suiJoKz8Fb3pBI8c0IuEhU2E/MstUTGvF5gvgpZTSRet+2rCN7FJy/zw7dEg2Y7YPhJSMDuGvV88jF0wSCylKGfJw4euTOtRgGWYexnoUxygLmXQtRQ==
+Receiving vote with token: cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+Decrypting vote...
+Decrypted Output: zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+🔓 Decrypted Vote (hash): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Vote received and verified (hash): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+#️⃣ Hashed (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: Bob
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+#️⃣ Hashed (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Encrypting hashed vote...
+Encrypted Input (Base64): pTP3nuxhsFJP2PqTRspZZeO+PVm4vvpNPg+ZEGR626kZzTjLNNG+JpIHYm/b28YN8lMuSGn2eHH+mPxQ6WIevMHX0R050LSLLiHLCjafNq2cmEXXeETjZXe3MV6ROgyBFrDTE8K5k1zM20C/ZX09gMRnqxGYzSZVMdvN9sDRJMIvGrPSGwr53Mmrjxc93y5dEMs4nR3UXGLVjVvwuLThXy5p7HWnKRv/gTC1Ta9Rho1+DzzB5uQMIrKU04FJwdFAPrnloV8S91YfQMY5Yc65Gzezyz/vOYls3quug9aMX/DwW0ie4hKjBzjhrFldeQwnVO8VVJg/zUphKAcWOVdXpg==
+🔐 Encrypted Vote: pTP3nuxhsFJP2PqTRspZZeO+PVm4vvpNPg+ZEGR626kZzTjLNNG+JpIHYm/b28YN8lMuSGn2eHH+mPxQ6WIevMHX0R050LSLLiHLCjafNq2cmEXXeETjZXe3MV6ROgyBFrDTE8K5k1zM20C/ZX09gMRnqxGYzSZVMdvN9sDRJMIvGrPSGwr53Mmrjxc93y5dEMs4nR3UXGLVjVvwuLThXy5p7HWnKRv/gTC1Ta9Rho1+DzzB5uQMIrKU04FJwdFAPrnloV8S91YfQMY5Yc65Gzezyz/vOYls3quug9aMX/DwW0ie4hKjBzjhrFldeQwnVO8VVJg/zUphKAcWOVdXpg==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Duplicate vote detected. Vote rejected.
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+#️⃣ Hashed (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: Charlie
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+#️⃣ Hashed (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+Encrypting hashed vote...
+Encrypted Input (Base64): eZbpjES8L+c0/pr1s7f2tDP9BEFHELxl/JL4gbWX2oBFzxVqXtlfwuw1e8x8KtJS30LIoafPybLjW7XNeIEA6eRlzhg4OHoKVqjv/7PaVEJf3sKuPBL2BF0fVV7KO5kJb/6j9/gPXUX/FxU7PvZgZL+eZL42liRtNOf2nOeImuQQPqv7yWq4AkqWnFYYjUoFJY9maJsrPs+2Hp26Uf+dVq3oInm1FARXP/NYEp1mHR5OnyJxXLJ/3Hf4RWLEYwkG9dbEzSSa88vgF8ebOORQU2ubfK1RRxL0k4Xa7oY/j60D6f8mkAXHnI8LdBTNWkm5owyGffAUdiYIatvlXiE76w==
+🔐 Encrypted Vote: eZbpjES8L+c0/pr1s7f2tDP9BEFHELxl/JL4gbWX2oBFzxVqXtlfwuw1e8x8KtJS30LIoafPybLjW7XNeIEA6eRlzhg4OHoKVqjv/7PaVEJf3sKuPBL2BF0fVV7KO5kJb/6j9/gPXUX/FxU7PvZgZL+eZL42liRtNOf2nOeImuQQPqv7yWq4AkqWnFYYjUoFJY9maJsrPs+2Hp26Uf+dVq3oInm1FARXP/NYEp1mHR5OnyJxXLJ/3Hf4RWLEYwkG9dbEzSSa88vgF8ebOORQU2ubfK1RRxL0k4Xa7oY/j60D6f8mkAXHnI8LdBTNWkm5owyGffAUdiYIatvlXiE76w==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Duplicate vote detected. Vote rejected.
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+Hashed Input (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+#️⃣ Hashed (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Hashed Input (B): 335w5QIVRPSDS77mSp43if68S+gUcN9inK1t2wMyClw=
+#️⃣ Hashed (B): 335w5QIVRPSDS77mSp43if68S+gUcN9inK1t2wMyClw=
+Hashed Input (C): ayPA1fNdGxH5toPwsKYXNV3rESd9ka4JHTmcZVuHlA0=
+#️⃣ Hashed (C): ayPA1fNdGxH5toPwsKYXNV3rESd9ka4JHTmcZVuHlA0=
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+#️⃣ Hashed (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+#️⃣ Hashed (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+#️⃣ Hashed (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): x8mfrq0MP+NNQe4I9pOZ1N/i/eZNeSTa+r13XeoD4Ghuc8HG+Dk9hkghssue+3fAIltaFwSBL2Ab+1xMQUF0uqvppRFj+SoQaIrYCRBtMB4P4pBFwTN0Q1mE3LMn8A1az8fh8dbixRD8mJ43a/5tr6H9yplkS29stsBp2UdDIFDLKis/wylP7LS3xgXapzR8cgqRp0uOmbrYACVvgSVQCJTCt9iwowOyzhYhRdkiS2iyKxYGpT+8aYTxJ49WTRFDvzcs6MAKKiePKBYaSKbie/q2yHwo1+R0/+erb7YlLCORf7TJOReAEAJZljD/imVmKtv3oizGxCv1cRrIG3h1CA==
+🔐 Encrypted Vote: x8mfrq0MP+NNQe4I9pOZ1N/i/eZNeSTa+r13XeoD4Ghuc8HG+Dk9hkghssue+3fAIltaFwSBL2Ab+1xMQUF0uqvppRFj+SoQaIrYCRBtMB4P4pBFwTN0Q1mE3LMn8A1az8fh8dbixRD8mJ43a/5tr6H9yplkS29stsBp2UdDIFDLKis/wylP7LS3xgXapzR8cgqRp0uOmbrYACVvgSVQCJTCt9iwowOyzhYhRdkiS2iyKxYGpT+8aYTxJ49WTRFDvzcs6MAKKiePKBYaSKbie/q2yHwo1+R0/+erb7YlLCORf7TJOReAEAJZljD/imVmKtv3oizGxCv1cRrIG3h1CA==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Decrypting vote...
+Decrypted Output: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+🔓 Decrypted Vote (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Vote received and verified (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+
+--- Voting Summary ---
+Alice → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Generating token using: samsam123
+Hashed Input (samsam123): cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+#️⃣ Hashed (samsam123): cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+Hashing vote choice: Bob
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+#️⃣ Hashed (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Encrypting hashed vote...
+Encrypted Input (Base64): jRDcCO7NfUyOGsSf09zCwcWg7+3tH+0xhwtu6hW17XyNS5sN2hu4KniIAqml1dxsbr54MS7PuEKeVSeUICXVbredDE13iuJEcLzsxQcu5y/k2TBxG/6zxb9/k13150/uSelba/vWjjOYDF2VTW/fke9vpdC6mDjmgb1s1k3xFshyGhgTa6kEPi5vDOUAerpq4THpctVpXvDR1ABxoOKkR5UOf2fiyjVRo6le0C2WVV+6Zma29ol6Ic+NPaOKYxe3sDVlSGtz+Jk3kmnoW0bnbZHsWYNU4GVSrKGjOzqQOgyIJMWQwGySAYKFa9pFMeMHeEXCwHTlVfcdsAuxJw7+tA==
+🔐 Encrypted Vote: jRDcCO7NfUyOGsSf09zCwcWg7+3tH+0xhwtu6hW17XyNS5sN2hu4KniIAqml1dxsbr54MS7PuEKeVSeUICXVbredDE13iuJEcLzsxQcu5y/k2TBxG/6zxb9/k13150/uSelba/vWjjOYDF2VTW/fke9vpdC6mDjmgb1s1k3xFshyGhgTa6kEPi5vDOUAerpq4THpctVpXvDR1ABxoOKkR5UOf2fiyjVRo6le0C2WVV+6Zma29ol6Ic+NPaOKYxe3sDVlSGtz+Jk3kmnoW0bnbZHsWYNU4GVSrKGjOzqQOgyIJMWQwGySAYKFa9pFMeMHeEXCwHTlVfcdsAuxJw7+tA==
+Receiving vote with token: cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+Decrypting vote...
+Decrypted Output: zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+🔓 Decrypted Vote (hash): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Vote received and verified (hash): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Bob → Count: 1
+Generating token using: sayurisayuri123
+Hashed Input (sayurisayuri123): 2ingC6PPbaViIXP9P4VccFqhkUA6vo/Q23kZA2c7OjQ=
+#️⃣ Hashed (sayurisayuri123): 2ingC6PPbaViIXP9P4VccFqhkUA6vo/Q23kZA2c7OjQ=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): fXnIrxAswL0duV2pXNxuErIGKeWljWP0LJIsKXcVu/jTTPKTozBW9A9T1hFBbm5kE5GjctnlMn2990PxPyzrRuvTwnodQaCZJErWx2qKmcLeoEqJonFfEYo5z4BmeyULGiJv4+NYd1ecQgDwL0TEQzs6FLRZDcva+wpImG9gpnlCiYJigMHIbtwXfdGlc8FBz/y9TabUf8cbvy143Wslaxr2zy7iaFI44CDv0aJdxP8ebNnEhAICZi/ZOGFyRySGFOAkAnw8XiJrrkPb8n8GZ59N6sgRbNqQ/6MN4onDEfhY+8TlzbTcJpH55kuWCskbpcjU6bSsAlVotz860wxnxg==
+🔐 Encrypted Vote: fXnIrxAswL0duV2pXNxuErIGKeWljWP0LJIsKXcVu/jTTPKTozBW9A9T1hFBbm5kE5GjctnlMn2990PxPyzrRuvTwnodQaCZJErWx2qKmcLeoEqJonFfEYo5z4BmeyULGiJv4+NYd1ecQgDwL0TEQzs6FLRZDcva+wpImG9gpnlCiYJigMHIbtwXfdGlc8FBz/y9TabUf8cbvy143Wslaxr2zy7iaFI44CDv0aJdxP8ebNnEhAICZi/ZOGFyRySGFOAkAnw8XiJrrkPb8n8GZ59N6sgRbNqQ/6MN4onDEfhY+8TlzbTcJpH55kuWCskbpcjU6bSsAlVotz860wxnxg==
+Receiving vote with token: 2ingC6PPbaViIXP9P4VccFqhkUA6vo/Q23kZA2c7OjQ=
+Decrypting vote...
+Decrypted Output: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+🔓 Decrypted Vote (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Vote received and verified (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+#️⃣ Hashed (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): P8+3tFRmhsFQCD19XZDOmmI452z4Xg4qK4mMmAc6lZLdOeQqNf+ctRCLR1dvVYFHosmNw2GyyvT8I/EfQ6t+KNNEEh8AUVlpGanYThsjI8f++eEmknHl651oYtWZdP7JrSIdMmepy9I7mtR6h43Wmo9G1pP/h9WoCvaU8Bc8C+HsGbyoRmAZ5OmqTmn1eTfahejhSXI4H45S70ozWQqQLRUosTkuiB6S6R55OY5fQGDX2eWXjXH3oFvYQlWHS67Z8QCaXckCHS18XZFu021oY4h/iVstmSiZUtjHxWmyctrF9rmozybGTVUxnxjuLpSr7TTQ2YB4cPe2iPjQK5vFpg==
+🔐 Encrypted Vote: P8+3tFRmhsFQCD19XZDOmmI452z4Xg4qK4mMmAc6lZLdOeQqNf+ctRCLR1dvVYFHosmNw2GyyvT8I/EfQ6t+KNNEEh8AUVlpGanYThsjI8f++eEmknHl651oYtWZdP7JrSIdMmepy9I7mtR6h43Wmo9G1pP/h9WoCvaU8Bc8C+HsGbyoRmAZ5OmqTmn1eTfahejhSXI4H45S70ozWQqQLRUosTkuiB6S6R55OY5fQGDX2eWXjXH3oFvYQlWHS67Z8QCaXckCHS18XZFu021oY4h/iVstmSiZUtjHxWmyctrF9rmozybGTVUxnxjuLpSr7TTQ2YB4cPe2iPjQK5vFpg==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Duplicate vote detected. Vote rejected.
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+Generating token using: imashaimasha123
+Hashed Input (imashaimasha123): 8lkRUijEB7adZKRNGSyWSrm4AEouzcM/z8MV8CqREGA=
+#️⃣ Hashed (imashaimasha123): 8lkRUijEB7adZKRNGSyWSrm4AEouzcM/z8MV8CqREGA=
+Hashing vote choice: Charlie
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+#️⃣ Hashed (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+Encrypting hashed vote...
+Encrypted Input (Base64): kn0nbQ5mpD+h7tScXEOU7MO1KhqDAv8lSG53qRbDt8sW4X3ycrzgZPzhsXT2bC/kwFMfL5U2rNRoiu/BSOrgRV9etnmHIeK2Db/do7GhFIxl/HDgdtYKawzTrbLOGssAYlaImp8Yl1BZ0DAByzwG+3unStarALqaHCSHXOuHrpgYDLrtRDIjhYlZsxoBpJLS5pCO4eWqZNWWyguavVRPKcS4LV3n2KtIbVbQQ8f2VVwziFCB9NtgCUv6Nv5j7xY7lOiVVRdySJvtppuToKiDjNZLBYAzjlMCmRIp2Qh4lTSI20Rcv8Ad80o4a0U44VPy8R/sHDZVF1AxYf5+H3sIbw==
+🔐 Encrypted Vote: kn0nbQ5mpD+h7tScXEOU7MO1KhqDAv8lSG53qRbDt8sW4X3ycrzgZPzhsXT2bC/kwFMfL5U2rNRoiu/BSOrgRV9etnmHIeK2Db/do7GhFIxl/HDgdtYKawzTrbLOGssAYlaImp8Yl1BZ0DAByzwG+3unStarALqaHCSHXOuHrpgYDLrtRDIjhYlZsxoBpJLS5pCO4eWqZNWWyguavVRPKcS4LV3n2KtIbVbQQ8f2VVwziFCB9NtgCUv6Nv5j7xY7lOiVVRdySJvtppuToKiDjNZLBYAzjlMCmRIp2Qh4lTSI20Rcv8Ad80o4a0U44VPy8R/sHDZVF1AxYf5+H3sIbw==
+Receiving vote with token: 8lkRUijEB7adZKRNGSyWSrm4AEouzcM/z8MV8CqREGA=
+Decrypting vote...
+Decrypted Output: boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+🔓 Decrypted Vote (hash): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+Vote received and verified (hash): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+Hashed Input (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+#️⃣ Hashed (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Hashed Input (B): 335w5QIVRPSDS77mSp43if68S+gUcN9inK1t2wMyClw=
+#️⃣ Hashed (B): 335w5QIVRPSDS77mSp43if68S+gUcN9inK1t2wMyClw=
+Hashed Input (C): ayPA1fNdGxH5toPwsKYXNV3rESd9ka4JHTmcZVuHlA0=
+#️⃣ Hashed (C): ayPA1fNdGxH5toPwsKYXNV3rESd9ka4JHTmcZVuHlA0=
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+#️⃣ Hashed (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+#️⃣ Hashed (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+#️⃣ Hashed (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): CicCWdxkGadAmck+emNB+CtDU8XB8oCbezcOkxEM2aWbvq2ZNm6GtQhOLlydbiY1WfPPJMC/LcCeFZpjwmTtyWLCjNJCkCFH9gNGx4iJWueX1yJVhfUaqEIhKVcFbkwrVnKFjjD4gS9XDh/2/bx5Jv5RUF4oFfGw476toHJuGgBQNAwgAHiBBLY/VVZQOjICl64+ZAXNXYZgS443/kcGgv3XRxhqbJranublYMvNcmLHZeIkRXddZwWAmlOBeH5W6Y/OWiOChKPg3w5i6VVDAOlNXvRMvCf+A4JHiSvb8x22RjwvuTrT9kjpZFXkb/37BRsjkIQHuVxGgiw03HowYQ==
+🔐 Encrypted Vote: CicCWdxkGadAmck+emNB+CtDU8XB8oCbezcOkxEM2aWbvq2ZNm6GtQhOLlydbiY1WfPPJMC/LcCeFZpjwmTtyWLCjNJCkCFH9gNGx4iJWueX1yJVhfUaqEIhKVcFbkwrVnKFjjD4gS9XDh/2/bx5Jv5RUF4oFfGw476toHJuGgBQNAwgAHiBBLY/VVZQOjICl64+ZAXNXYZgS443/kcGgv3XRxhqbJranublYMvNcmLHZeIkRXddZwWAmlOBeH5W6Y/OWiOChKPg3w5i6VVDAOlNXvRMvCf+A4JHiSvb8x22RjwvuTrT9kjpZFXkb/37BRsjkIQHuVxGgiw03HowYQ==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Decrypting vote...
+Decrypted Output: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+🔓 Decrypted Vote (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Vote received and verified (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+
+--- Voting Summary ---
+Alice → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+#️⃣ Hashed (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: Bob
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+#️⃣ Hashed (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Encrypting hashed vote...
+Encrypted Input (Base64): jBUI2woxHBux7VvyVWUnjBox/450GaO8Jd5kkPbNE5yYfEHTo1Bp/bUx8G5r/05etvZWQ9rle0DR2w2kiHU/O0N+e+GSZqRaQnOFyA/F9HK6eCJ8X+2zQsD4AoYVApeeILuZh41UCWToNpUxvbScHBM/bZept5g/D8HpPaV+OXfMu9FhVZJuwm+1298eiFcJBmVmpboIxvzTmsUPIOdGkFKYvM2Uv+aYNYSXxO8HamGNYy5s7z8wFo1pxYlZWjn+NmrxXZq4lVLfid6UkO+slm0semzWWvCEpe4rp5rTqIK8l54ciZ4c+5ZQki95l9PpALyx8uD7EKZFBEwhn5vTew==
+🔐 Encrypted Vote: jBUI2woxHBux7VvyVWUnjBox/450GaO8Jd5kkPbNE5yYfEHTo1Bp/bUx8G5r/05etvZWQ9rle0DR2w2kiHU/O0N+e+GSZqRaQnOFyA/F9HK6eCJ8X+2zQsD4AoYVApeeILuZh41UCWToNpUxvbScHBM/bZept5g/D8HpPaV+OXfMu9FhVZJuwm+1298eiFcJBmVmpboIxvzTmsUPIOdGkFKYvM2Uv+aYNYSXxO8HamGNYy5s7z8wFo1pxYlZWjn+NmrxXZq4lVLfid6UkO+slm0semzWWvCEpe4rp5rTqIK8l54ciZ4c+5ZQki95l9PpALyx8uD7EKZFBEwhn5vTew==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Duplicate vote detected. Vote rejected.
+
+--- Voting Summary ---
+Alice → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 1
+Generating token using: samsam123
+Hashed Input (samsam123): cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+#️⃣ Hashed (samsam123): cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): G2uopdjlCwfjqW3SMoz3sJZYGNLTisGDXxuFFALAEHfyiWBlZpHwJOIAnLWX/vpyhTwRGjfjOtje5FsP/H15xYMPC9HTsFRuflhSvUV7y/X9aaxTjgD7p4XavpV9ayIIWzU2gm02dxB8ZB+MJiBBpObtXJ0ijRvyS0dJzZvEs9TAj6Vo6xT6bPmQiV8Exq5GFRa2Z8eznRTeyp4Vd+TOz3duJD9EFjeu6kwXDBbU0Q4g4FKpaoLgeC5jv7X+rKlzEa6BvSOrkBFttjjt8cyhOCPSvYUaKQixVJ1MMYRH5ZcRmFOJ7wNc8f8Csc238h5Iey7sROPEytyLJJD7AJ/ZCA==
+🔐 Encrypted Vote: G2uopdjlCwfjqW3SMoz3sJZYGNLTisGDXxuFFALAEHfyiWBlZpHwJOIAnLWX/vpyhTwRGjfjOtje5FsP/H15xYMPC9HTsFRuflhSvUV7y/X9aaxTjgD7p4XavpV9ayIIWzU2gm02dxB8ZB+MJiBBpObtXJ0ijRvyS0dJzZvEs9TAj6Vo6xT6bPmQiV8Exq5GFRa2Z8eznRTeyp4Vd+TOz3duJD9EFjeu6kwXDBbU0Q4g4FKpaoLgeC5jv7X+rKlzEa6BvSOrkBFttjjt8cyhOCPSvYUaKQixVJ1MMYRH5ZcRmFOJ7wNc8f8Csc238h5Iey7sROPEytyLJJD7AJ/ZCA==
+Receiving vote with token: cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+Decrypting vote...
+Decrypted Output: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+🔓 Decrypted Vote (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Vote received and verified (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+
+--- Voting Summary ---
+Alice → Count: 2
+Generating token using: sayurisayuri123
+Hashed Input (sayurisayuri123): 2ingC6PPbaViIXP9P4VccFqhkUA6vo/Q23kZA2c7OjQ=
+#️⃣ Hashed (sayurisayuri123): 2ingC6PPbaViIXP9P4VccFqhkUA6vo/Q23kZA2c7OjQ=
+Hashing vote choice: Bob
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+#️⃣ Hashed (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Encrypting hashed vote...
+Encrypted Input (Base64): R7WjDZtCLGWLwA8oJO3kC0bRgXvbRqA3Hpf7RhyseI6QpgDfLpFwb+Y20iNYzoAvQFg1PFJeoeQ8t0Hgg12ZyKKLs+/D7LaXvWeH+RTyeFA5bnBBJLyfTUjwhgMhp2kDG/xTZgrao8F0ilTIvp9wWiL7SvPdVSVpYo1jt+PwRpElJlPYyXSZzP8Y/rkScDSTIjTQF3t5kjhGhKSf0zmRv6uEW3fVRzNNSIcjP4ll+Joxh2QnO1QrzKd7CpuzExp5Lm8p/W9421P7VxozPaFKkeOLI7JNISjKJJaMKEztIIVuaejH/zdl2737y4x1SBkxg/Qx75IdQskHRBBqpM4XYQ==
+🔐 Encrypted Vote: R7WjDZtCLGWLwA8oJO3kC0bRgXvbRqA3Hpf7RhyseI6QpgDfLpFwb+Y20iNYzoAvQFg1PFJeoeQ8t0Hgg12ZyKKLs+/D7LaXvWeH+RTyeFA5bnBBJLyfTUjwhgMhp2kDG/xTZgrao8F0ilTIvp9wWiL7SvPdVSVpYo1jt+PwRpElJlPYyXSZzP8Y/rkScDSTIjTQF3t5kjhGhKSf0zmRv6uEW3fVRzNNSIcjP4ll+Joxh2QnO1QrzKd7CpuzExp5Lm8p/W9421P7VxozPaFKkeOLI7JNISjKJJaMKEztIIVuaejH/zdl2737y4x1SBkxg/Qx75IdQskHRBBqpM4XYQ==
+Receiving vote with token: 2ingC6PPbaViIXP9P4VccFqhkUA6vo/Q23kZA2c7OjQ=
+Decrypting vote...
+Decrypted Output: zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+🔓 Decrypted Vote (hash): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Vote received and verified (hash): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Alice → Count: 2
+Bob → Count: 1
+Generating token using: imashaimasha123
+Hashed Input (imashaimasha123): 8lkRUijEB7adZKRNGSyWSrm4AEouzcM/z8MV8CqREGA=
+#️⃣ Hashed (imashaimasha123): 8lkRUijEB7adZKRNGSyWSrm4AEouzcM/z8MV8CqREGA=
+Hashing vote choice: Charlie
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+#️⃣ Hashed (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+Encrypting hashed vote...
+Encrypted Input (Base64): My0JWxluJM7fwi+9U2FiNRabDX60Wl87HLp1Vs00HvZuR3fjQH1fCBhQncmI4h/+j7P6wb3sg8WVq8uS7ubqSgWYQ+VEcS3+lYc/8Q2u4KFEytpCgzH36dGrpk47MsI6QhZpyMvH/2W0TuGTcgZsuwIPT0ZG/86yQQMvVgCmgq64dafV6U15nIlJJthkVdB1j/KZQFz+rfwCrbSiZxpYCv2o8cPy0ALCFvouqI2SmKQ8v88PXkMruQhGOqoYtuifPJIbOc+Q1LVKi76uXrgUWnRlKh+Av++CYooZu+/cyQdCkWXuOmAox3ZV8U5xWtT0LTEKFUHotDWRqiIxil5i+A==
+🔐 Encrypted Vote: My0JWxluJM7fwi+9U2FiNRabDX60Wl87HLp1Vs00HvZuR3fjQH1fCBhQncmI4h/+j7P6wb3sg8WVq8uS7ubqSgWYQ+VEcS3+lYc/8Q2u4KFEytpCgzH36dGrpk47MsI6QhZpyMvH/2W0TuGTcgZsuwIPT0ZG/86yQQMvVgCmgq64dafV6U15nIlJJthkVdB1j/KZQFz+rfwCrbSiZxpYCv2o8cPy0ALCFvouqI2SmKQ8v88PXkMruQhGOqoYtuifPJIbOc+Q1LVKi76uXrgUWnRlKh+Av++CYooZu+/cyQdCkWXuOmAox3ZV8U5xWtT0LTEKFUHotDWRqiIxil5i+A==
+Receiving vote with token: 8lkRUijEB7adZKRNGSyWSrm4AEouzcM/z8MV8CqREGA=
+Decrypting vote...
+Decrypted Output: boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+🔓 Decrypted Vote (hash): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+Vote received and verified (hash): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+Hashed Input (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+#️⃣ Hashed (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Hashed Input (B): 335w5QIVRPSDS77mSp43if68S+gUcN9inK1t2wMyClw=
+#️⃣ Hashed (B): 335w5QIVRPSDS77mSp43if68S+gUcN9inK1t2wMyClw=
+Hashed Input (C): ayPA1fNdGxH5toPwsKYXNV3rESd9ka4JHTmcZVuHlA0=
+#️⃣ Hashed (C): ayPA1fNdGxH5toPwsKYXNV3rESd9ka4JHTmcZVuHlA0=
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+#️⃣ Hashed (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+#️⃣ Hashed (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+#️⃣ Hashed (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: Charlie
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+#️⃣ Hashed (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+Encrypting hashed vote...
+Encrypted Input (Base64): ahwtPLXCBqfONaulnzKTPfINupriKo/DAVVs/oocZF7c5VHhtZLYoHDdBuU401h0hBaz0OhAPlbBSfPIjDxMohJuz9+yoD3ezHDgcGF9XhZS8LFxQ1we4hI+SYpKl+DQiJBigDb3MnybtMqbS+ZpWAQ7cyzgmh1l1cM00GzmuZApX/yTUDRtmt48/gTfMvSRBbQT4YYOSW1ye3+I6E0mzo7WZF80kUYEe3NRA8+zftMPLRK1E8NDMFqQEaLpfQC7DNDiQ9zkPzTlYngEdFgZLfVCmYKJxRR0AzWHUzF5t5lIqUyhfBksBIWJEn6eSlHfX+WP7RF58wLRf0xv6KUANg==
+🔐 Encrypted Vote: ahwtPLXCBqfONaulnzKTPfINupriKo/DAVVs/oocZF7c5VHhtZLYoHDdBuU401h0hBaz0OhAPlbBSfPIjDxMohJuz9+yoD3ezHDgcGF9XhZS8LFxQ1we4hI+SYpKl+DQiJBigDb3MnybtMqbS+ZpWAQ7cyzgmh1l1cM00GzmuZApX/yTUDRtmt48/gTfMvSRBbQT4YYOSW1ye3+I6E0mzo7WZF80kUYEe3NRA8+zftMPLRK1E8NDMFqQEaLpfQC7DNDiQ9zkPzTlYngEdFgZLfVCmYKJxRR0AzWHUzF5t5lIqUyhfBksBIWJEn6eSlHfX+WP7RF58wLRf0xv6KUANg==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Decrypting vote...
+Decrypted Output: boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+🔓 Decrypted Vote (hash): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+Vote received and verified (hash): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+
+--- Voting Summary ---
+Charlie → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Generating token using: samsam123
+Hashed Input (samsam123): cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+#️⃣ Hashed (samsam123): cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+Hashing vote choice: Bob
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+#️⃣ Hashed (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Encrypting hashed vote...
+Encrypted Input (Base64): Lkp5u8+EfmQ6WxMmqbnixOi6455/fepyUj564bvX0Q/m6pYHFzN7z+8G5ZgHl+n4C7Dn6A2UKdSG84DUWg3Lngeoygn3WclY+lIpMffDZy2vreY7mwy+i9UfGK1B8+T5fXS4uQSspxABbOdvVJcvw8XwvderMtL/JoMPhN9o7ic8g26QbOoAhPlouoSEULetqdJoPS/RgEQe8WHDRSO/EqT4FFmT9TAVgcJX3skup0dkMQLZguY1koywpWpO5fb9I3l/rakVk+2HqW9WIvK53PcEmJwIz9uDu/QLIAJCrvquF0/9CmImPi3nhqkAiDqTMELIIGKFvhRGkXVm68u10Q==
+🔐 Encrypted Vote: Lkp5u8+EfmQ6WxMmqbnixOi6455/fepyUj564bvX0Q/m6pYHFzN7z+8G5ZgHl+n4C7Dn6A2UKdSG84DUWg3Lngeoygn3WclY+lIpMffDZy2vreY7mwy+i9UfGK1B8+T5fXS4uQSspxABbOdvVJcvw8XwvderMtL/JoMPhN9o7ic8g26QbOoAhPlouoSEULetqdJoPS/RgEQe8WHDRSO/EqT4FFmT9TAVgcJX3skup0dkMQLZguY1koywpWpO5fb9I3l/rakVk+2HqW9WIvK53PcEmJwIz9uDu/QLIAJCrvquF0/9CmImPi3nhqkAiDqTMELIIGKFvhRGkXVm68u10Q==
+Receiving vote with token: cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+Decrypting vote...
+Decrypted Output: zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+🔓 Decrypted Vote (hash): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Vote received and verified (hash): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Bob → Count: 1
+Hashed Input (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+#️⃣ Hashed (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Hashed Input (B): 335w5QIVRPSDS77mSp43if68S+gUcN9inK1t2wMyClw=
+#️⃣ Hashed (B): 335w5QIVRPSDS77mSp43if68S+gUcN9inK1t2wMyClw=
+Hashed Input (C): ayPA1fNdGxH5toPwsKYXNV3rESd9ka4JHTmcZVuHlA0=
+#️⃣ Hashed (C): ayPA1fNdGxH5toPwsKYXNV3rESd9ka4JHTmcZVuHlA0=
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+#️⃣ Hashed (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+#️⃣ Hashed (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+Generating token using: samsam123
+Hashed Input (samsam123): cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+#️⃣ Hashed (samsam123): cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+Hashing vote choice: Charlie
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+#️⃣ Hashed (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+Encrypting hashed vote...
+Encrypted Input (Base64): O2Ov9ju7/GVOL5LZi7B6796WDcxNRas3FmSMMmy2D6fwQ+ERNqYm5jHUysn/++T47LOjyrWZ7J7YG97kMH4iNa+iinQmk2qhA4BWKs94lHXkC2HaHhwXqVDev8mDAdOJxFlU8k9huMiRzwTeqVnwd+S4EsyqTbyOJXDaMLAO9MWbFs80GB60nokcedajppdBGrT5i25TtL16364HDwG8fCzlHsjeQDkpGezYySSzii8lxBdVY5X8KXpldSbIwva3yG+W9JkE8RLG7i8SMtcRd0B1Lh0fAIiD9ma0poOw55BxjD4vOFy+Oz1gdZdQAJek6K8iDOCwJeo8l14NGRx8MQ==
+🔐 Encrypted Vote: O2Ov9ju7/GVOL5LZi7B6796WDcxNRas3FmSMMmy2D6fwQ+ERNqYm5jHUysn/++T47LOjyrWZ7J7YG97kMH4iNa+iinQmk2qhA4BWKs94lHXkC2HaHhwXqVDev8mDAdOJxFlU8k9huMiRzwTeqVnwd+S4EsyqTbyOJXDaMLAO9MWbFs80GB60nokcedajppdBGrT5i25TtL16364HDwG8fCzlHsjeQDkpGezYySSzii8lxBdVY5X8KXpldSbIwva3yG+W9JkE8RLG7i8SMtcRd0B1Lh0fAIiD9ma0poOw55BxjD4vOFy+Oz1gdZdQAJek6K8iDOCwJeo8l14NGRx8MQ==
+Receiving vote with token: cvBM/3bg7MjszlLJ7z2ODkG7bo0N3ZAv69VR6mYZYdc=
+Decrypting vote...
+Decrypted Output: boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+🔓 Decrypted Vote (hash): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+Vote received and verified (hash): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+
+--- Voting Summary ---
+Charlie → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+#️⃣ Hashed (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): JdIMaSamEboJSomRzEHDAk4kV13R2GKriIrssh0JTALeIm+phaL7NQL/uDh83cuX4tvSqU1PccfqAuuXTuF7A7DrP6ne80XS6qzm0pk2pFUqcBOHmRr1+73UIO870aNr9jHMxQLZDyNRlOrzOKnrW4AgMbiFHRLijARP4m1g3OWTF5f7EvmNc1cY4xEBYjcyyRCi8+r9dVax5yDL+FPIiJr5f519t5rFWd3+W8WC591dFa21yjUNU3YQ3m2hMgvf6ZF1NC/r2UJ8wES8c4/pHnFaVLZ2tX89X3wYlp4rtoJ0T/n0vkXwx3M2YEkGm0Kro89gw6VVhuLyzihuNYe9rA==
+🔐 Encrypted Vote: JdIMaSamEboJSomRzEHDAk4kV13R2GKriIrssh0JTALeIm+phaL7NQL/uDh83cuX4tvSqU1PccfqAuuXTuF7A7DrP6ne80XS6qzm0pk2pFUqcBOHmRr1+73UIO870aNr9jHMxQLZDyNRlOrzOKnrW4AgMbiFHRLijARP4m1g3OWTF5f7EvmNc1cY4xEBYjcyyRCi8+r9dVax5yDL+FPIiJr5f519t5rFWd3+W8WC591dFa21yjUNU3YQ3m2hMgvf6ZF1NC/r2UJ8wES8c4/pHnFaVLZ2tX89X3wYlp4rtoJ0T/n0vkXwx3M2YEkGm0Kro89gw6VVhuLyzihuNYe9rA==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Decrypting vote...
+Decrypted Output: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+🔓 Decrypted Vote (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Vote received and verified (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+#️⃣ Hashed (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: Bob
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+#️⃣ Hashed (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Encrypting hashed vote...
+Encrypted Input (Base64): MuXB7+ZCUeuIpHo9LdyElgT6xT6z+ib3wqZi5NJ2Hp/D87PNE6MXQA0hiNbNVy0bf+l0jRPNSZNNqalrqJtvIZjd4M8AreWfxWJTt0So/cfPm6NMjf1daKAiYA3Sb4CJFlOquSCxJjCRbEGZSqjcAhfV8ZP9o2Ul29GoxFtu605Gq836erDiWJ91tb/ThdnkygxS0t0CaCJr5rovl+Z0n69pAtQbvhtwy3/VSeWI9/CeQHYz+AOYM+GfdrtSujOhS7/R/1Ifn/fb05VcmjqEzM6b4pKS+HXlyLVLX22ZcB1C6oE0mX9Q60Xrs/BQ/v4NTTR2HhAyAW3IquSsVgpCSQ==
+🔐 Encrypted Vote: MuXB7+ZCUeuIpHo9LdyElgT6xT6z+ib3wqZi5NJ2Hp/D87PNE6MXQA0hiNbNVy0bf+l0jRPNSZNNqalrqJtvIZjd4M8AreWfxWJTt0So/cfPm6NMjf1daKAiYA3Sb4CJFlOquSCxJjCRbEGZSqjcAhfV8ZP9o2Ul29GoxFtu605Gq836erDiWJ91tb/ThdnkygxS0t0CaCJr5rovl+Z0n69pAtQbvhtwy3/VSeWI9/CeQHYz+AOYM+GfdrtSujOhS7/R/1Ifn/fb05VcmjqEzM6b4pKS+HXlyLVLX22ZcB1C6oE0mX9Q60Xrs/BQ/v4NTTR2HhAyAW3IquSsVgpCSQ==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Duplicate vote detected. Vote rejected.
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 1
+Generating token using: sayurisayuri123
+Hashed Input (sayurisayuri123): 2ingC6PPbaViIXP9P4VccFqhkUA6vo/Q23kZA2c7OjQ=
+#️⃣ Hashed (sayurisayuri123): 2ingC6PPbaViIXP9P4VccFqhkUA6vo/Q23kZA2c7OjQ=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): P1fqVizq5Um+7ksA/LImnksJoB7SLl8B1x8IVb3FuZ5EQS6w5rC5nyGLbxFqv85cBfciniOQgtwW7MnFybDP/JYTT9r1PuqCNAb2U4RLpHYfybIxC8blEywooUn/3h8Gu9pOZyPOCI29ePyCrmMuAUXxyk8HnfdW65L3pgfZFcywPLFZP1HzSBQhJSBWWnsm72ofCLsT/mi4mcLgWyLwUrL76sqanpEnATFQBH6lVjw6ApTtLS1kqqs2F2Uq2+Vx+bTsre3EHgvIzWNRWpJmVWKg7eQY6CCs7FnYaP/VVRuHgW65VzSBicROi8U4OEx7scJmWyLWgbPQnZwdGwxOhA==
+🔐 Encrypted Vote: P1fqVizq5Um+7ksA/LImnksJoB7SLl8B1x8IVb3FuZ5EQS6w5rC5nyGLbxFqv85cBfciniOQgtwW7MnFybDP/JYTT9r1PuqCNAb2U4RLpHYfybIxC8blEywooUn/3h8Gu9pOZyPOCI29ePyCrmMuAUXxyk8HnfdW65L3pgfZFcywPLFZP1HzSBQhJSBWWnsm72ofCLsT/mi4mcLgWyLwUrL76sqanpEnATFQBH6lVjw6ApTtLS1kqqs2F2Uq2+Vx+bTsre3EHgvIzWNRWpJmVWKg7eQY6CCs7FnYaP/VVRuHgW65VzSBicROi8U4OEx7scJmWyLWgbPQnZwdGwxOhA==
+Receiving vote with token: 2ingC6PPbaViIXP9P4VccFqhkUA6vo/Q23kZA2c7OjQ=
+Decrypting vote...
+Decrypted Output: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+🔓 Decrypted Vote (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Vote received and verified (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Generating token using: imashaimasha123
+Hashed Input (imashaimasha123): 8lkRUijEB7adZKRNGSyWSrm4AEouzcM/z8MV8CqREGA=
+#️⃣ Hashed (imashaimasha123): 8lkRUijEB7adZKRNGSyWSrm4AEouzcM/z8MV8CqREGA=
+Hashing vote choice: Bob
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+#️⃣ Hashed (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Encrypting hashed vote...
+Encrypted Input (Base64): L+LV5n3PDi1Cgkfsj9QvWnhqGblsadC6WnrtZJWYMlozG8MsUWL2fyFjwS/RJKsR1lHrposhz5Aua4ec4ZckTMbvoZxvJfx7JH3Ui21RWE8IyT+nErEAiMZ6YXMJ23pXGL2hYl9iyrnUOUGPemHNdQDm1fFX2TxiF9Q8Fy9QED8eslVAkgrb8BOgHB8QD3dKad9f6IqrsMwTtFB30auKPqlZzEjUvdtm2uoAPXQYxrO4ziz56Tvo5xqGwKT1tnXjPUkmOTrBig7+Ce/tvrSvzZuu3we64YpVHuph3SSSd+c7UeCAgVvnBHfC1L8J3i6uxOiKidUZFh8P03dl8PI5JQ==
+🔐 Encrypted Vote: L+LV5n3PDi1Cgkfsj9QvWnhqGblsadC6WnrtZJWYMlozG8MsUWL2fyFjwS/RJKsR1lHrposhz5Aua4ec4ZckTMbvoZxvJfx7JH3Ui21RWE8IyT+nErEAiMZ6YXMJ23pXGL2hYl9iyrnUOUGPemHNdQDm1fFX2TxiF9Q8Fy9QED8eslVAkgrb8BOgHB8QD3dKad9f6IqrsMwTtFB30auKPqlZzEjUvdtm2uoAPXQYxrO4ziz56Tvo5xqGwKT1tnXjPUkmOTrBig7+Ce/tvrSvzZuu3we64YpVHuph3SSSd+c7UeCAgVvnBHfC1L8J3i6uxOiKidUZFh8P03dl8PI5JQ==
+Receiving vote with token: 8lkRUijEB7adZKRNGSyWSrm4AEouzcM/z8MV8CqREGA=
+Decrypting vote...
+Decrypted Output: zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+🔓 Decrypted Vote (hash): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Vote received and verified (hash): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+
+--- Voting Summary ---
+Charlie → Count: 1
+Alice → Count: 2
+Bob → Count: 1
+Hashed Input (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+#️⃣ Hashed (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Hashed Input (B): 335w5QIVRPSDS77mSp43if68S+gUcN9inK1t2wMyClw=
+#️⃣ Hashed (B): 335w5QIVRPSDS77mSp43if68S+gUcN9inK1t2wMyClw=
+Hashed Input (C): ayPA1fNdGxH5toPwsKYXNV3rESd9ka4JHTmcZVuHlA0=
+#️⃣ Hashed (C): ayPA1fNdGxH5toPwsKYXNV3rESd9ka4JHTmcZVuHlA0=
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+#️⃣ Hashed (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+#️⃣ Hashed (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+#️⃣ Hashed (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
+
+--- Voting Summary ---
